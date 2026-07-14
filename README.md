@@ -62,7 +62,7 @@ Geographic Coordinates
 Time Period: 2000–2020
 Coverage: 100+ Countries
 
-📷 Dashboard Preview - 
+📷 Dashboard Preview - https://github.com/chentsa/Global-Energy-Sustainability-Dashboard-Tableau-/blob/main/global-energy.png
 
 🚀 Skills Demonstrated
 Data Cleaning
